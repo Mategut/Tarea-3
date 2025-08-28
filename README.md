@@ -9,7 +9,7 @@ Este chip es muy común en sistemas embebidos y microcontroladores para permitir
 ## 2. Esquema Eléctrico Típico
 El MAX232 requiere **condensadores externos** para generar las tensiones internas necesarias (≈ +10 V y –10 V a partir de una fuente de 5 V).  
 
-<img width="277" height="273" alt="image" src="https://github.com/user-attachments/assets/209df99f-533c-4865-9488-8a30f1fa768d" />
+<img width="430" height="276" alt="image" src="https://github.com/user-attachments/assets/92ac5103-98d3-4c12-a859-f89acf0b281c" />
 
 ---
 
